@@ -41,7 +41,7 @@ To perform a DOS attack simulation using NS2, you will need to:
 3.	Educate network administrators and security professionals about DoS attacks and how to respond to DoS attacks.
 
 ## References
-https://www.paloaltonetworks.com/cyberpedia/what-is-a-denial-of-service-attack-dos
-https://networksimulator2.com/ns2-ddos-attack/
-https://skillsbuild.edunetworld.com/courses/cs/dos-attack-using-ns2/
-https://www.byos.io/blog/denial-of-service-attack-prevention
+- https://www.paloaltonetworks.com/cyberpedia/what-is-a-denial-of-service-attack-dos
+- https://networksimulator2.com/ns2-ddos-attack/
+- https://skillsbuild.edunetworld.com/courses/cs/dos-attack-using-ns2/
+- https://www.byos.io/blog/denial-of-service-attack-prevention
